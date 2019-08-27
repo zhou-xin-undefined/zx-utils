@@ -1,2 +1,5 @@
 export * from './lib/tree'
 export * from './lib/json'
+export * from './lib/number'
+export * from './lib/function'
+export * from './lib/string'
